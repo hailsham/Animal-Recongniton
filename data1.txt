@@ -1,0 +1,6 @@
+./data1/cat/
+./data1/dog/
+./data1/chipmunk/
+./data1/giraffe/
+./data1/squirrel/
+./data1/wolf/

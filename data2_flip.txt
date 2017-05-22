@@ -1,0 +1,4 @@
+./data2_flip/catflip/
+./data2_flip/dogflip/
+./data2_flip/giraffeflip/
+./data2_flip/wolfflip/

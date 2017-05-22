@@ -1,0 +1,4 @@
+./data2/cat/
+./data2/dog/
+./data2/giraffe/
+./data2/wolf/
